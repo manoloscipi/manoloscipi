@@ -5,6 +5,6 @@
 - 📫 How to reach me :manoloscipi@gmail.com
 
 Current project;
-I'm currently collaborating with my team on Bloom Express, a web project that you can explore here: 🌐 Bloom Express
+I'm currently collaborating with my team on Bloom Express, a web project that you can explore here: 🌐 https://bloom-express.onrender.com/
 
 🔗 GitHub Repository: Explore our code on GitHub
