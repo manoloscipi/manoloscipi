@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :manoloscipi@gmail.com
 
-<!---
-manoloscipi/manoloscipi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Current project;
+I'm currently collaborating with my team on Bloom Express, a web project that you can explore here: 🌐 Bloom Express
+
+🔗 GitHub Repository: Explore our code on GitHub
